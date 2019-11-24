@@ -1,0 +1,2 @@
+serviceClass: jo.secondstep.gwtTask.client.GreetingService
+path: 7D0EFEF44B3ECB052CCB6B48DD86AEB4.gwt.rpc

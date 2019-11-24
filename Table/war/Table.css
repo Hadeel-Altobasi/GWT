@@ -1,0 +1,36 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: Green ;
+  margin: 40px 0px 10px;
+  text-align: left;
+}
+
+
+
+/** Most GWT widgets already have a style name defined */
+
+
+
+.Table{
+	border: 1px solid #BBBBBB;
+  padding: 3px;
+}
+
+
+
+.rem{
+	margin-top: 20px;
+	align-items: left;
+}
+.add {
+	margin-top: 20px;
+	align-items: left;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+

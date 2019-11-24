@@ -1,0 +1,3 @@
+# Module task_check
+# RPC service class, partial path of RPC policy file
+jo.secondstep.gwtTask.client.GreetingService, 7D0EFEF44B3ECB052CCB6B48DD86AEB4.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: jo.secondstep.table.client.GreetingService
+path: 3D7667F82C0E61CC137AB70D9144C994.gwt.rpc

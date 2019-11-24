@@ -1,0 +1,36 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: red;
+  margin: 40px 0px 0px;
+ 
+}
+
+
+
+/** Most GWT widgets already have a style name defined */
+
+.box{
+margin-top: 20px;	
+ 
+	
+}
+.rem {
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.check
+{
+ font-size: 1em;	
+ font-weight: bold;
+
+	
+}
+
+
+/** Set ids using widget.getElement().setId("idOfElement") */
